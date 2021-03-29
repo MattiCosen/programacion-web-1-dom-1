@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  background-color: darkkhaki;
+  padding: 25px 10px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.nav_dom {
+  background-color: lightgrey;
+  margin-left: 15px;
+  display: inline;
+}
+/*# sourceMappingURL=main.css.map */
